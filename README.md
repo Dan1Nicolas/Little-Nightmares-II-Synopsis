@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 The project and synopsis of the game Little Nightmare II. 
 
-- [Visit the project online] ()
+- [Visit the project online] (https://Dan1Nicolas.github.io/Little-Nightmares-II-Synopsis)
 
 ---
 
