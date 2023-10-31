@@ -22,9 +22,9 @@ see the preview of the project:
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
 ## 💻 Project
 
